@@ -9,7 +9,6 @@ cover:
  caption: Quad in Winter
 
 tags: [tag1, tag2, tag3]
-
 categories: [cat1, cat2]
 ---
 
