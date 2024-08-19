@@ -1,4 +1,42 @@
-baseURL: ""
+baseURL: https://onlinemediahq.com
 languageCode: en-us
 title: My New Hugo Site
-theme: ["PaperMod"]
+theme: PaperMod
+
+params:
+
+  cover:
+   linkFullImages: true
+   hiddenInList: true
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+  homeInfoParams:
+   Title: "Hi there \U0001F44B"
+   Content: Welcome to my blog.  I write about all kinds of stuff.
+
+  socialIcons:
+   - name: X
+     url: "https://x.com/"
+   - name: facebook
+     url: "https://facebook.com/"
+   - name: Github
+     url: "https://github.com/"
+
+menu:
+  main:
+   - identifier: categories
+     name: categories
+     url: /categories/
+     weight: 10
+   - identifier: tags
+     name: tags
+     url: /tags/
+     weight: 20
+   - identifier: archives
+     name: Archives
+     url: /archives/
+     weight: 30

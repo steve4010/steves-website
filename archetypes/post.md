@@ -7,7 +7,16 @@ cover:
  image: img/quad1-720px.jpg
  alt: alt text here
  caption: Quad in Winter
+
+tags:
+ - tag1
+ - tag2
+ 
+categories:
+ - cat1
+ - cat2
 ---
 
-This is a content page
+post text here
+
 
