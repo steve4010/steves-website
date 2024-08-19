@@ -8,13 +8,9 @@ cover:
  alt: alt text here
  caption: Quad in Winter
 
-tags:
- - quad
- - tag2
+tags: [tag1, tag2, tag3]
  
-categories:
- - outdoors
- - snow
+categories: [cat1, cat2]
 ---
 
 First blog post Text
