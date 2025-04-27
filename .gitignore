@@ -1,0 +1,4 @@
+# ignore all logs
+public/
+*.log
+.hugo_build.lock

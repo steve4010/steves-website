@@ -1,7 +1,10 @@
-baseURL: https://onlinemediahq.com
+baseURL: ""
 languageCode: en-us
-title: My New Hugo Site
+title: Hugo PaperMod Website
 theme: PaperMod
+
+
+enableRobotsTXT: true
 
 params:
 
@@ -16,7 +19,7 @@ params:
 
   homeInfoParams:
    Title: "Hi there \U0001F44B"
-   Content: Welcome to my blog.  I write about all kinds of stuff.
+   Content: Welcome to my blog.  I write about all kinds of stuff that's cool.
 
   socialIcons:
    - name: X
