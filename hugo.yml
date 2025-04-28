@@ -19,7 +19,7 @@ params:
 
   homeInfoParams:
    Title: "Hi there \U0001F44B"
-   Content: Welcome to my blog.  I write about all kinds of stuff that's cool.
+   Content: Welcome to my blog!
 
   socialIcons:
    - name: X
